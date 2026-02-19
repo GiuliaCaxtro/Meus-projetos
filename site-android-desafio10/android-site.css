@@ -184,8 +184,7 @@ div.videoyt iframe{
 
 aside{
     margin: 25px auto;
-    width: 100%;
-    max-width: 950px;
+    width: 97%;
     height: auto;
     background-color: var(--cor0);
     border-radius: 10px;
