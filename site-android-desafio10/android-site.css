@@ -66,6 +66,7 @@ header > h1{
 header > p{
      padding: 30px;
     text-align: center;
+    font-family: var(--fonte0), Arial, Helvetica, sans-serif;
 }
 
 /*
