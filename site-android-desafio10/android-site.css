@@ -64,7 +64,7 @@ header > h1{
     font-size: 3em;
 }
 header > p{
-     padding: 30px;
+    padding: 50px;
     text-align: center;
     font-family: var(--fonte0), Arial, Helvetica, sans-serif;
 }
