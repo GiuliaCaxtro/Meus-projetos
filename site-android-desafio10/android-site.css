@@ -123,7 +123,7 @@ main p{
 
 main h1{
     padding: 15px;
-    font-family: var(--fonte2), var(--fonte3), Arial, Helvetica, sans-serif;
+    font-family: var(--fonte2), 'Audiowide', Arial, Helvetica, sans-serif;
     color: var(--cor5);
     text-align: left;
     
