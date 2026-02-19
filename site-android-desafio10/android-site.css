@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'iDroid';
-    src: url(../site-desafio10/fontes/idroid.otf) format('opentype');
+    src: url('fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
